@@ -13,6 +13,10 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 1. **#1 Two Sum** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-1-3d0a)
 2. **#217 Contains Duplicate** –  [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-1-3d0a)
 
+### Day 2
+
+1. **#242 Valid Anagram** – [Blog Post](https://dev.to/ertugrulmutlu/-daily-leetcode-progress-day-2-2i0e)
+2. **#49 Group Anagrams** –  [Blog Post](https://dev.to/ertugrulmutlu/-daily-leetcode-progress-day-2-2i0e)
 ---
 
 ## 📂 Repository Structure
