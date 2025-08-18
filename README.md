@@ -20,7 +20,6 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 3
 
 1. **#347 Top K Frequent Elements** – [Blog Post](https://dev.to/ertugrulmutlu/-daily-leetcode-progress-day-3-1p2g)
-))
 2. **#238 Product of Array Except Self** –  [Blog Post](https://dev.to/ertugrulmutlu/-daily-leetcode-progress-day-3-1p2g)
 
 ---
