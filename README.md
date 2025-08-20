@@ -25,6 +25,10 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 4
 1. **#121 Best Time to Buy and Sell Stock** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-4-2ba2)
 2. **#11 Container With Most Water** –  [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-4-2ba2)
+
+### Day 5
+1. **#125 Valid Palindrome** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-5-ehb)
+2. **#15 3Sum** –  [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-5-ehb)
 ---
 
 ## 📂 Repository Structure
