@@ -30,11 +30,13 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 1. **#125 Valid Palindrome** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-5-ehb)
 2. **#15 3Sum** –  [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-5-ehb)
 
-https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-6-4lh2
-### Day 5
+### Day 6
 1. **#42 Trapping Rain Water** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-6-4lh2)
 2. **#3 Longest Substring Without Repeating Characters** –  [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-6-4lh2)
 
+### Day 7
+1. **#567 Permutation in String** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-7-45j0)
+2. **#424 Longest Repeating Character Replacement** –  [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-7-45j0)
 ---
 
 ## 📂 Repository Structure
