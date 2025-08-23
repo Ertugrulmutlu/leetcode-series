@@ -37,6 +37,10 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 7
 1. **#567 Permutation in String** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-7-45j0)
 2. **#424 Longest Repeating Character Replacement** –  [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-7-45j0)
+
+### Day 8
+1. **#76 Minimum Window Substring** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-8-1ai3)
+2. **#33 Search in Rotated Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-8-1ai3)
 ---
 
 ## 📂 Repository Structure
