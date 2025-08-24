@@ -41,6 +41,10 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 8
 1. **#76 Minimum Window Substring** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-8-1ai3)
 2. **#33 Search in Rotated Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-8-1ai3)
+3. 
+### Day 9
+1. **#34 Find First and Last Position of Element in Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-9-1o4k)
+2. **#153 Find Minimum in Rotated Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-9-1o4k)
 ---
 
 ## 📂 Repository Structure
