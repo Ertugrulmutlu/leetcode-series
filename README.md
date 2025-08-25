@@ -45,6 +45,10 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 9
 1. **#34 Find First and Last Position of Element in Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-9-1o4k)
 2. **#153 Find Minimum in Rotated Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-9-1o4k)
+
+### Day 10
+1. **#4 Median of Two Sorted Arrays** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-10-2oh7)
+3. **#20 Valid Parentheses** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-10-2oh7)
 ---
 
 ## 📂 Repository Structure
