@@ -48,7 +48,11 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 
 ### Day 10
 1. **#4 Median of Two Sorted Arrays** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-10-2oh7)
-3. **#20 Valid Parentheses** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-10-2oh7)
+2. **#20 Valid Parentheses** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-10-2oh7)
+   
+### Day 11
+1. **#295. Find Median from Data Stream** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-11-3el6)
+3. **#36 Valid Sudoku (Set / validation)** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-11-3el6)
 ---
 
 ## 📂 Repository Structure
