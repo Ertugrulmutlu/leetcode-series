@@ -8,9 +8,8 @@ public:
                 char ch = board[r][c];
                 if (ch == '.') continue;
 
-                int b = (r/3)*3 + (c/3); // 0..8
+                int b = (r/3)*3 + (c/3); 
 
-                // duplicate check via linear search (size ≤ 9, so fine)
                 if (find(rows[r].begin(), rows[r].end(), ch) != rows[r].end()) return false;
                 if (find(cols[c].begin(), cols[c].end(), ch) != cols[c].end()) return false;
                 if (find(boxes[b].begin(), boxes[b].end(), ch) != boxes[b].end()) return false;
@@ -23,3 +22,4 @@ public:
         return true;
     }
 };
+
