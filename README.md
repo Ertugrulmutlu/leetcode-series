@@ -52,7 +52,15 @@ Below is the list of problems solved so far. For each one, you can find the **fu
    
 ### Day 11
 1. **#295. Find Median from Data Stream** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-11-3el6)
-3. **#36 Valid Sudoku (Set / validation)** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-11-3el6)
+2. **#36 Valid Sudoku (Set / validation)** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-11-3el6)
+
+### Day 12
+1. **#79 Word Search** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-12-51mj)
+2. **#70 Climbing Stairs** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-12-51mj)
+
+### Day 13
+1. **#141 Linked List Cycle** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-13-a6o)
+2. **#409 Longest Palindrome** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-13-a6o)
 ---
 
 ## 📂 Repository Structure
