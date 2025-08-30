@@ -61,6 +61,10 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 13
 1. **#141 Linked List Cycle** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-13-a6o)
 2. **#409 Longest Palindrome** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-13-a6o)
+
+### Day 14
+1. **#206 Reverse Linked List** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-14-24n4)
+2. **#169 Majority Element** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-14-24n4)
 ---
 
 ## 📂 Repository Structure
