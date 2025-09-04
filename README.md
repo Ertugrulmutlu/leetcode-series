@@ -69,6 +69,14 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 15
 1. **#83 Remove Duplicates from Sorted List** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-15-4hp5)
 2. **#202 Happy Number** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-15-4hp5)
+3. 
+### Day 16
+1. **#118 Pascal’s Triangle** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-16-5gg3)
+2. **#66 Plus One** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-16-5gg3)
+
+### Day 17
+1. **#3065. Minimum Operations to Exceed Threshold Value I** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
+2. **#283 Move Zeroes** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
 ---
 
 ## 📂 Repository Structure
