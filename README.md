@@ -77,10 +77,13 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 17
 1. **#3065. Minimum Operations to Exceed Threshold Value I** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
 2. **#283 Move Zeroes** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
-
 ### Day 18
 1. **#160 Intersection of Two Linked Lists** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-18-25m3)
 2. **#543 Diameter of Binary Tree** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-18-25m3)
+
+### Day 19
+1. **#438 Find All Anagrams in a String** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-19-3074)
+2. **#1004 Max Consecutive Ones III** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-19-3074)
 ---
 
 ## 📂 Repository Structure
