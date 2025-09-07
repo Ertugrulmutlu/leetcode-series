@@ -80,10 +80,13 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 18
 1. **#160 Intersection of Two Linked Lists** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-18-25m3)
 2. **#543 Diameter of Binary Tree** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-18-25m3)
-
 ### Day 19
 1. **#438 Find All Anagrams in a String** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-19-3074)
 2. **#1004 Max Consecutive Ones III** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-19-3074)
+   
+### Day 20
+1. **#162 Find Peak Element** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-20-1p9)
+2. **#540. Single Element in a Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-20-1p9)
 ---
 
 ## 📂 Repository Structure
