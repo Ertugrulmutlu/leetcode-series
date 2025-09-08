@@ -87,6 +87,10 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 20
 1. **#162 Find Peak Element** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-20-1p9)
 2. **#540. Single Element in a Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-20-1p9)
+
+### Day 21
+1. **#162 Find Peak Element** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-21-g6a)
+2. **#540. Single Element in a Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-21-g6a)
 ---
 
 ## 📂 Repository Structure
