@@ -91,6 +91,10 @@ Below is the list of problems solved so far. For each one, you can find the **fu
 ### Day 21
 1. **#162 Find Peak Element** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-21-g6a)
 2. **#540. Single Element in a Sorted Array** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-21-g6a)
+3. 
+### Day 22
+1. **#230 Kth Smallest Element in a BST** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-22-4ec0)
+2. **#236 Lowest Common Ancestor of a Binary Tree** – [Blog Post](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-22-4ec0)
 ---
 
 ## 📂 Repository Structure
